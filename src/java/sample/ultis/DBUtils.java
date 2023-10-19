@@ -20,7 +20,7 @@ import javax.sql.DataSource;
 public class DBUtils {
     private static final String USER_NAME = "SA";
     private static final String PASSWORD="12345";
-    private static final String DB_NAME="ProjectPRJ3W";
+    private static final String DB_NAME="ProjectPRJ3S";
    public static Connection getConnectionV1() throws SQLException, ClassNotFoundException{
         Connection conn = null;
         //load thư viện jsbc để kết nối với MS SQL Sever
