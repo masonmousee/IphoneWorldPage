@@ -13,10 +13,10 @@
         <style>
             /* Form Container */
             .form-container {
-                max-width: 400px;
+                max-width: 300px;
                 margin: 0 auto;
                 padding: 20px;
-                background-color: #f7f7f7;
+                background-color: #f7f7f;
                 border: 1px solid #e5e5e5;
                 border-radius: 5px;
                 font-family: Arial, sans-serif;
