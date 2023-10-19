@@ -21,8 +21,8 @@ import sample.user.UserError;
  */
 public class CreateServlet extends HttpServlet {
 
-    private static final String ERROR = "create.jsp";
-    private static final String SUCCESS = "login.jsp";
+    private static final String ERROR = "create.js";
+    private static final String SUCCESS = "login.js";
 
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
