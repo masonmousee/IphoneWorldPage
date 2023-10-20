@@ -18,6 +18,23 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e153e13_1c295411",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1022023
+      },
+      "writtenOn": "2023-10-20T02:58:01Z",
+      "side": 1,
+      "message": "ok",
+      "revId": "8898eaa97f27b71832e3b59fbe9139c561fc815e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "058661ac_4720e631",
@@ -31,6 +48,30 @@
       "writtenOn": "2023-10-20T02:54:32Z",
       "side": 1,
       "message": "ok",
+      "range": {
+        "startLine": 27,
+        "startChar": 6,
+        "endLine": 30,
+        "endChar": 20
+      },
+      "revId": "8898eaa97f27b71832e3b59fbe9139c561fc815e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d24223ee_8af91f7c",
+        "filename": "src/java/sample/ultis/DBUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1022023
+      },
+      "writtenOn": "2023-10-20T02:58:01Z",
+      "side": 1,
+      "message": "cam on",
+      "parentUuid": "058661ac_4720e631",
       "range": {
         "startLine": 27,
         "startChar": 6,
