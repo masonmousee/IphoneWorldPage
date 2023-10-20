@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0bbeb64a_0a14dd4f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1022016
+      },
+      "writtenOn": "2023-10-20T04:11:25Z",
+      "side": 1,
+      "message": "1",
+      "revId": "02877ddd07774e3227fe3b86ddfd509e8dd7c23a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "992e4c3c_507993f6",
+        "filename": "src/java/sample/ultis/DBUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1022016
+      },
+      "writtenOn": "2023-10-20T04:11:25Z",
+      "side": 1,
+      "message": "comment code wrong",
+      "range": {
+        "startLine": 27,
+        "startChar": 8,
+        "endLine": 30,
+        "endChar": 20
+      },
+      "revId": "02877ddd07774e3227fe3b86ddfd509e8dd7c23a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
