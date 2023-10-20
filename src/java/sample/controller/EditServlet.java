@@ -38,7 +38,7 @@ public class EditServlet extends HttpServlet {
             int num = Integer.parseInt(request.getParameter("num"));
             HttpSession session = request.getSession();
             if(session != null){
-                Cart cart = (Cart) session.getAttribute("CAR");
+                Cart cart = (Cart) session.getAttribute("CART");
                 if(cart != null){
                     Product p = cart.getCart().get(id);
                     p.setQuantity(num);
